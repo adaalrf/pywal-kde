@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://i.imgur.com/5WgMACe.gif" width="200px"></h3>
 <h2 align="center"><i>Generate and change color-schemes on the fly.</i></h2>
 
-### ⚠️ This is a fork of the original pywal with suport for KDE, and a updated setup.py file. ⚠️
+### ⚠️ This is a fork of the original pywal, now with added support for KDE, and an updated setup.py file. ⚠️
 
 <img src="https://i.imgur.com/HhK3LDv.jpg" alt="img" align="right" width="400px">
 
