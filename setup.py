@@ -16,7 +16,7 @@ setup(
         "image",
         "pillow",
         "requests",
-        "dbus-python",  # Add dbus-python to the install requirements
+        "dbus-python",
     ],
     entry_points={
         "console_scripts": [
